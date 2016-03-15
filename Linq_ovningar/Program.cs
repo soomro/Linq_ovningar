@@ -89,6 +89,7 @@ namespace Linq_ovningar
                 }
 
 
+                
 
 
                 Console.ReadLine();
