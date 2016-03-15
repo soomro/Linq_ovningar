@@ -68,7 +68,7 @@ namespace Linq_ovningar
                 Console.WriteLine("{0} E:05", space);
                 //// 
                 var query5 = from e in employees
-                             where e.FirstName == "Where"
+                             where e.FirstName == "Dennis"
                              select e;
 
                 foreach (Employee e in query5)
@@ -80,13 +80,15 @@ namespace Linq_ovningar
                 Console.WriteLine("{0} E:06", space);
                 //// 
                 var query6 = from e in employees
-                             where e.LastName == "Where"
+                             where e.LastName == "Kharlboutli"
                              select e;
 
                 foreach (Employee e in query6)
                 {
                     Console.WriteLine("{0} {1} {2} {3} ", e.Id, e.FirstName, e.LastName, e.Number);
                 }
+
+
 
 
                 Console.ReadLine();
