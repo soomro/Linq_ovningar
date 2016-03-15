@@ -6,3 +6,6 @@ c:\users\elev1\documents\visual studio 2015\Projects\Linq_ovningar\Linq_ovningar
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar\bin\Debug\Linq_ovningar.exe.config
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar\obj\Debug\Linq_ovningar.exe
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar\obj\Debug\Linq_ovningar.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar\obj\Debug\Linq_ovningar.csprojResolveAssemblyReference.cache
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar\bin\Debug\Linq_ovningar.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar\bin\Debug\Linq_ovningar.pdb

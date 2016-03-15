@@ -1,0 +1,5 @@
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar2\bin\Debug\Linq_ovningar2.exe.config
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar2\bin\Debug\Linq_ovningar2.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar2\bin\Debug\Linq_ovningar2.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar2\obj\Debug\Linq_ovningar2.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\Linq_ovningar\Linq_ovningar2\obj\Debug\Linq_ovningar2.pdb
