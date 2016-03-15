@@ -1,0 +1,5 @@
+c:\users\elev1\documents\visual studio 2015\Projects\Linq_ovningar\Linq_ovningar\bin\Debug\Linq_ovningar.exe.config
+c:\users\elev1\documents\visual studio 2015\Projects\Linq_ovningar\Linq_ovningar\bin\Debug\Linq_ovningar.exe
+c:\users\elev1\documents\visual studio 2015\Projects\Linq_ovningar\Linq_ovningar\bin\Debug\Linq_ovningar.pdb
+c:\users\elev1\documents\visual studio 2015\Projects\Linq_ovningar\Linq_ovningar\obj\Debug\Linq_ovningar.exe
+c:\users\elev1\documents\visual studio 2015\Projects\Linq_ovningar\Linq_ovningar\obj\Debug\Linq_ovningar.pdb
